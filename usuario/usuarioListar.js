@@ -1,4 +1,4 @@
-const API_URL = "https://sa-equipamentos-backend.onrender.com/";
+const API_URL = "https://sa-equipamentos-backend.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#usuariosTable tbody");

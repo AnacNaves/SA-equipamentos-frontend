@@ -1,6 +1,6 @@
 "use strict";
 
-const API_URL = "https://sa-equipamentos-backend.onrender.com/";
+const API_URL = "https://sa-equipamentos-backend.onrender.com";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const params = new URLSearchParams(window.location.search);
